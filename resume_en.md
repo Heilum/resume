@@ -96,10 +96,10 @@ A large-scale AI web customer service system, frontend based on React/Ant Design
 
 My Role: Major frontend React development
 
-**FacePro**
+**3. FacePro**
 
 A Flutter-based Web3 social app, backend based on AWS services including DynamoDB/GraphQL/Lambda/S3
 
 ![Alt text](facepro.jpg)
 
-My Role: As the App development lead, responsible for app architecture and development of embedded Unity games
+My Role: As the App development leader, responsible for app architecture and development of embedded Unity games
