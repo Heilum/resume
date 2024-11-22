@@ -1,0 +1,8 @@
+title: Jagie's Resume
+description: Jagie's Resume
+theme: jekyll-theme-minimal  # or other themes
+
+# Optional settings
+markdown: kramdown
+plugins:
+  - jekyll-relative-links

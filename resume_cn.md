@@ -1,3 +1,7 @@
+---
+layout: default
+title: Jagie's Resume
+---
 陈万飞
 ======
 
