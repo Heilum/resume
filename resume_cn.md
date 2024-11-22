@@ -43,7 +43,7 @@ title: Jagie's Resume
 **前端Flutter开发:**
 - 熟悉Dart语言高级特性;
 - 熟悉Flutter的内部机制;
-- 熟悉从figma到Flutter theme的转换;
+- 熟悉从Figma到Flutter theme的转换;
 - 精通Provider状态管理，能建立一个清晰且健壮的app架构;
 - 精通常用的各种packages, 且可以自由裁剪;
 - 具备多年的Android/iOS原生开发经验, 熟悉Flutter与原生混合开发;
@@ -72,7 +72,8 @@ title: Jagie's Resume
 - 熟悉Github Actions等CI/CD流程
 - 擅长Cursor IDE及各类常用插件，善用AI工具
 - 有良好的英文阅读及沟通能力
--
+- 求知若渴，虚怀若谷
+- 具备强烈的责任心
 
 
 典型案例
