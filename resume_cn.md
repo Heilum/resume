@@ -80,26 +80,20 @@ title: Jagie's Resume
 --------
 - 51好茶: 一个基于Flutter的app, 整合电商和类似TikTok等视频内容。后端基于Amplify+Medusa 
 
-![Alt text](51tea_app1.png)
-![Alt text](51tea_app2.png)
-![Alt text](51tea_app3.png)
-![Alt text](51tea_app4.png)
-![Alt text](51tea_aws.png)
-![Alt text](51tea_medusa.png)
+![Alt text](51tea_app.png)
+![Alt text](51tea_backend.png)
+
 
 我的职责：从figma到App Store上架，从前端Flutter开发到后端aws的开通/medusa的搭建，全部独立完成
 
 - DeepFlow: 一个大型的AI web客服系统,前端基于react/ant design, 后端基于python/flask/langchain/各家llm模型
 
-![Alt text](deepflow1.png)
-![Alt text](deepflow2.png)
+![Alt text](deepflow.png)
 
 我的职责：大部分前端React开发
 
 - FacePro: 一个基于Flutter的 web3 social app,后端基于DymamoDB/GraphQL/Lambda/S3等AWS服务
 
-![Alt text](facepro1.png)
-![Alt text](facepro2.png)
-![Alt text](facepro3.png)
+![Alt text](facepro.jpg)
 
 我的职责：作为App端的开发负责人，负责了App的架构搭建，并且开发了内嵌的Unity游戏
