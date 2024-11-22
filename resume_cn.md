@@ -80,7 +80,7 @@ title: Jagie's Resume
 --------
 - 51好茶: 一个基于Flutter的app, 整合电商和类似TikTok等视频内容。后端基于Amplify+Medusa 
 
-![Alt text](51tea_app.png)
+![Alt text](51tea_app.jpg)
 ![Alt text](51tea_backend.png)
 
 
