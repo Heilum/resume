@@ -44,7 +44,7 @@ Skills
 - Proficient in advanced Dart language features
 - Deep understanding of Flutter's internal mechanisms
 - Experienced in converting Figma designs to Flutter themes
-- Expert in Provider state management, capable of building clear and robust app architectures
+- Expert in MVVM app architectures
 - Mastery of common packages with ability to customize
 - Years of experience in native Android/iOS development, skilled in Flutter hybrid development
 - Proficient in implementing serverless backend solutions like Firebase/Amplify in Flutter

@@ -1,0 +1,18 @@
+{
+    "sourceFile": "resume_en.md",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1733326646103,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1733326646103,
+            "name": "Commit-0",
+            "content": "---\nlayout: default\ntitle: Jagie's Resume\n---\nChen Wanfei\n======\n\n#### Born in 1979, Male, Full Stack Software Engineer, Based in Chongqing\n\nContact Information\n---------\n- [chenwf@gmail.com](mailto:chenwf@gmail.com)\n- [Medium](https://medium.com/@chencwf)\n- [Weibo](https://weibo.com/jagie)\n\n\n\nEducation\n---------\n\n**Bachelor of Computational Mathematics and Applied Software, Central South University** (1997-2001)\n\n\n\nWork Experience\n---------\n**Independent Developer, Freelancer** (2009-Present, Chongqing)\n\n- Undertake various software development projects, including Python crawlers, app development, web development, Unity games, etc.\n\n- Published apps on App Store independently\n\n\n**Software Engineer** (2001-2008, Beijing)\nWorked as a software engineer in multiple companies\n\n\nSkills\n------\n**Proficient in UI/UX Design:**\n- Familiar with Material Design 3 specifications and design tools like Figma\n\n**Frontend Flutter Development:**\n- Proficient in advanced Dart language features\n- Deep understanding of Flutter's internal mechanisms\n- Experienced in converting Figma designs to Flutter themes\n- Expert in MVVM app architectures\n- Mastery of common packages with ability to customize\n- Years of experience in native Android/iOS development, skilled in Flutter hybrid development\n- Proficient in implementing serverless backend solutions like Firebase/Amplify in Flutter\n\n**Frontend React Development:**\n- Proficient in TypeScript\n- Proficient in React\n- Proficient in Ant Design\n\n**Frontend Game Development:**\n- Proficient in C# and Unity\n- Skilled in integrating Unity with native Apps and Flutter\n\n\n**Backend Development:**\n- Proficient in Python, familiar with packages like Selenium/Flask\n- Experienced with LangChain/Ollama Python packages for RAG, capable of building AI applications\n- Proficient in Shelf dart server framework\n- Experienced with AWS services including Lambda/GraphQL/Amplify/DynamoDB/S3\n- Experienced with Firebase services including Cloud Functions/Firestore/Realtime Database/Storage\n\n\n**Others:**\n- Proficient in Git/Linux\n- Familiar with CI/CD processes like Github Actions\n- Skilled in Cursor IDE and various plugins, proficient with AI tools\n- Strong English reading and communication skills\n- Eager to learn, humble in approach\n- Strong sense of responsibility\n\n\nFeatured Projects\n--------\n**1. 51 Good Tea**\n\nA Flutter-based app integrating e-commerce and TikTok-like video content. Backend based on Amplify+Medusa \n\n![Alt text](51tea_app.jpg)\n![Alt text](51tea_backend.jpg)\n\n\nMy Role: Independently completed everything from Figma to App Store launch, from Flutter frontend development to AWS backend setup and Medusa implementation\n\n**2. DeepFlow** \n\nA large-scale AI web customer service system, frontend based on React/Ant Design, backend based on Python/Flask/LangChain/various LLM models\n\n![Alt text](deepflow.jpg)\n\nMy Role: Major frontend React development\n\n**3. FacePro**\n\nA Flutter-based Web3 social app, backend based on AWS services including DynamoDB/GraphQL/Lambda/S3\n\n![Alt text](facepro.jpg)\n\nMy Role: As the App development leader, responsible for app architecture and development of embedded Unity games\n"
+        }
+    ]
+}
