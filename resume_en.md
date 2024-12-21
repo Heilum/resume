@@ -2,6 +2,7 @@
 layout: default
 title: Jagie's Resume
 ---
+
 Chen Wanfei
 ======
 
@@ -64,7 +65,7 @@ Skills
 - Experienced with LangChain/Ollama Python packages for RAG, capable of building AI applications
 - Proficient in Shelf dart server framework
 - Experienced with AWS services including Lambda/GraphQL/Amplify/DynamoDB/S3
-- Experienced with Firebase services including Cloud Functions/Firestore/Realtime Database/Storage
+- Experienced with Firebase services including Cloud Functions/Firestore/Storage
 
 
 **Others:**
@@ -82,8 +83,8 @@ Featured Projects
 
 A Flutter-based app integrating e-commerce and TikTok-like video content. Backend based on Amplify+Medusa 
 
-![Alt text](51tea_app.jpg)
-![Alt text](51tea_backend.jpg)
+![Alt text](https://files.kimi.wxbiztool.com/ct4PTRooHMKIAgq6MdJLOCdHSp7cnbdK/51tea_app.jpg)
+![Alt text](https://files.kimi.wxbiztool.com/ea6kJ2vbbU84UG9dr7XNgBUajNgcXW09/51tea_backend.jpg)
 
 
 My Role: Independently completed everything from Figma to App Store launch, from Flutter frontend development to AWS backend setup and Medusa implementation
@@ -92,7 +93,7 @@ My Role: Independently completed everything from Figma to App Store launch, from
 
 A large-scale AI web customer service system, frontend based on React/Ant Design, backend based on Python/Flask/LangChain/various LLM models
 
-![Alt text](deepflow.jpg)
+![Alt text](https://files.kimi.wxbiztool.com/h5KXWljJYtdX9YTGGbN0FLCz3cIPeM9D/deepflow.jpg)
 
 My Role: Major frontend React development
 
@@ -100,6 +101,6 @@ My Role: Major frontend React development
 
 A Flutter-based Web3 social app, backend based on AWS services including DynamoDB/GraphQL/Lambda/S3
 
-![Alt text](facepro.jpg)
+![Alt text](https://files.kimi.wxbiztool.com/XCLckz5yMr6MxNscSDdYGlCFtHjdhmyQ/facepro.jpg)
 
 My Role: As the App development leader, responsible for app architecture and development of embedded Unity games

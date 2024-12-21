@@ -3,11 +3,19 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 0,
+            "activePatchIndex": 2,
             "patches": [
                 {
                     "date": 1733326646103,
                     "content": "Index: \n===================================================================\n--- \n+++ \n"
+                },
+                {
+                    "date": 1734768821242,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,8 +1,5 @@\n----\n-layout: default\n-title: Jagie's Resume\n----\n+\n Chen Wanfei\n ======\n \n #### Born in 1979, Male, Full Stack Software Engineer, Based in Chongqing\n@@ -63,9 +60,9 @@\n - Proficient in Python, familiar with packages like Selenium/Flask\n - Experienced with LangChain/Ollama Python packages for RAG, capable of building AI applications\n - Proficient in Shelf dart server framework\n - Experienced with AWS services including Lambda/GraphQL/Amplify/DynamoDB/S3\n-- Experienced with Firebase services including Cloud Functions/Firestore/Realtime Database/Storage\n+- Experienced with Firebase services including Cloud Functions/Firestore/Storage\n \n \n **Others:**\n - Proficient in Git/Linux\n@@ -81,25 +78,25 @@\n **1. 51 Good Tea**\n \n A Flutter-based app integrating e-commerce and TikTok-like video content. Backend based on Amplify+Medusa \n \n-![Alt text](51tea_app.jpg)\n-![Alt text](51tea_backend.jpg)\n+![Alt text](https://files.kimi.wxbiztool.com/ct4PTRooHMKIAgq6MdJLOCdHSp7cnbdK/51tea_app.jpg)\n+![Alt text](https://files.kimi.wxbiztool.com/ea6kJ2vbbU84UG9dr7XNgBUajNgcXW09/51tea_backend.jpg)\n \n \n My Role: Independently completed everything from Figma to App Store launch, from Flutter frontend development to AWS backend setup and Medusa implementation\n \n **2. DeepFlow** \n \n A large-scale AI web customer service system, frontend based on React/Ant Design, backend based on Python/Flask/LangChain/various LLM models\n \n-![Alt text](deepflow.jpg)\n+![Alt text](https://files.kimi.wxbiztool.com/h5KXWljJYtdX9YTGGbN0FLCz3cIPeM9D/deepflow.jpg)\n \n My Role: Major frontend React development\n \n **3. FacePro**\n \n A Flutter-based Web3 social app, backend based on AWS services including DynamoDB/GraphQL/Lambda/S3\n \n-![Alt text](facepro.jpg)\n+![Alt text](https://files.kimi.wxbiztool.com/XCLckz5yMr6MxNscSDdYGlCFtHjdhmyQ/facepro.jpg)\n \n My Role: As the App development leader, responsible for app architecture and development of embedded Unity games\n"
+                },
+                {
+                    "date": 1734768826359,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,8 @@\n+---\n+layout: default\n+title: Jagie's Resume\n+---\n \n Chen Wanfei\n ======\n \n"
                 }
             ],
             "date": 1733326646103,

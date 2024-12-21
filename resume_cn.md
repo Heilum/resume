@@ -44,7 +44,7 @@ title: Jagie's Resume
 - 熟悉Dart语言高级特性;
 - 熟悉Flutter的内部机制;
 - 熟悉从Figma到Flutter theme的转换;
-- 精通Provider状态管理，能建立一个清晰且健壮的app架构;
+- 精通MVVM 清晰架构;
 - 精通常用的各种packages, 且可以自由裁剪;
 - 具备多年的Android/iOS原生开发经验, 熟悉Flutter与原生混合开发;
 - 擅长在Futter中采用Firebase/amplify等serverless backend 方案;
@@ -56,7 +56,7 @@ title: Jagie's Resume
 
 **前端游戏开发:**
 - 熟悉C#和Unity;
-- 擅长Unity和原声App,Flutter整合
+- 擅长Unity和原生App,Flutter整合
 
 
 **后端开发:**
