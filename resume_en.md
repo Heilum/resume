@@ -89,8 +89,6 @@ A Flutter-based app integrating e-commerce and TikTok-like video content. Backen
 
 My Role: Independently completed everything from Figma to App Store launch, from Flutter frontend development to AWS backend setup and Medusa implementation
 
-
-
 **FacePro**
 
 A Flutter-based Web3 social app, backend based on AWS services including DynamoDB/GraphQL/Lambda/S3
