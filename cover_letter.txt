@@ -1,0 +1,12 @@
+Dear Employer,
+
+I am excited to apply for the [Flutter Developer] position. With over 20 years of software development experience, including 10 years in mobile development and 4 years specializing in Flutter, I bring a proven track record of delivering high-quality, successful mobile applications. My expertise, passion for crafting seamless user experiences, and commitment to writing concise, maintainable code make me an excellent fit for this role.
+
+Over the years,I excel in transforming Figma designs into high-fidelity, robust applications, paying close attention to detail to ensure the final product aligns perfectly with the designer’s vision. My dedication to improving user experiences drives me to constantly refine not only the visual design but also the performance and functionality of the apps I develop.
+
+I’m confident that my technical expertise, problem-solving skills, and passion for building exceptional mobile applications can contribute to the continued success of your team.
+
+I would welcome the opportunity to discuss how my skills and experience align with your needs. Thank you for considering my application. I look forward to the possibility of contributing to your team's success and am happy to provide further details or discuss my portfolio at your convenience.
+
+Sincerely,
+WanFei.Chen

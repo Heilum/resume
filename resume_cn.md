@@ -78,7 +78,7 @@ title: Jagie's Resume
 
 典型案例
 --------
-**1. 51好茶**
+**51好茶**
 
 一个基于Flutter的app, 整合电商和类似TikTok等视频内容。后端基于Amplify+Medusa 
 
@@ -88,13 +88,7 @@ title: Jagie's Resume
 
 我的职责：从figma到App Store上架，从前端Flutter开发到后端aws的开通/medusa的搭建，全部独立完成
 
-**2. DeepFlow** 
 
-一个大型的AI web客服系统,前端基于react/ant design, 后端基于python/flask/langchain/各家llm模型
-
-![Alt text](deepflow.jpg)
-
-我的职责：大部分前端React开发
 
 **FacePro**
 

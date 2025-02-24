@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 2,
+            "activePatchIndex": 3,
             "patches": [
                 {
                     "date": 1733326646103,
@@ -16,6 +16,10 @@
                 {
                     "date": 1734768826359,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -1,4 +1,8 @@\n+---\n+layout: default\n+title: Jagie's Resume\n+---\n \n Chen Wanfei\n ======\n \n"
+                },
+                {
+                    "date": 1740396077881,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -78,9 +78,9 @@\n \n \n Featured Projects\n --------\n-**1. 51 Good Tea**\n+**51 Good Tea**\n \n A Flutter-based app integrating e-commerce and TikTok-like video content. Backend based on Amplify+Medusa \n \n ![Alt text](https://files.kimi.wxbiztool.com/ct4PTRooHMKIAgq6MdJLOCdHSp7cnbdK/51tea_app.jpg)\n@@ -88,18 +88,12 @@\n \n \n My Role: Independently completed everything from Figma to App Store launch, from Flutter frontend development to AWS backend setup and Medusa implementation\n \n-**2. DeepFlow** \n \n-A large-scale AI web customer service system, frontend based on React/Ant Design, backend based on Python/Flask/LangChain/various LLM models\n \n-![Alt text](https://files.kimi.wxbiztool.com/h5KXWljJYtdX9YTGGbN0FLCz3cIPeM9D/deepflow.jpg)\n+**FacePro**\n \n-My Role: Major frontend React development\n-\n-**3. FacePro**\n-\n A Flutter-based Web3 social app, backend based on AWS services including DynamoDB/GraphQL/Lambda/S3\n \n ![Alt text](https://files.kimi.wxbiztool.com/XCLckz5yMr6MxNscSDdYGlCFtHjdhmyQ/facepro.jpg)\n \n"
                 }
             ],
             "date": 1733326646103,

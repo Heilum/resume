@@ -79,7 +79,7 @@ Skills
 
 Featured Projects
 --------
-**1. 51 Good Tea**
+**51 Good Tea**
 
 A Flutter-based app integrating e-commerce and TikTok-like video content. Backend based on Amplify+Medusa 
 
@@ -89,15 +89,9 @@ A Flutter-based app integrating e-commerce and TikTok-like video content. Backen
 
 My Role: Independently completed everything from Figma to App Store launch, from Flutter frontend development to AWS backend setup and Medusa implementation
 
-**2. DeepFlow** 
 
-A large-scale AI web customer service system, frontend based on React/Ant Design, backend based on Python/Flask/LangChain/various LLM models
 
-![Alt text](https://files.kimi.wxbiztool.com/h5KXWljJYtdX9YTGGbN0FLCz3cIPeM9D/deepflow.jpg)
-
-My Role: Major frontend React development
-
-**3. FacePro**
+**FacePro**
 
 A Flutter-based Web3 social app, backend based on AWS services including DynamoDB/GraphQL/Lambda/S3
 

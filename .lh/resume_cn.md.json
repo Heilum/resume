@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 1,
+            "activePatchIndex": 2,
             "patches": [
                 {
                     "date": 1734768717486,
@@ -12,6 +12,10 @@
                 {
                     "date": 1734768736072,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -55,9 +55,9 @@\n - 熟悉Ant Design;\n \n **前端游戏开发:**\n - 熟悉C#和Unity;\n-- 擅长Unity和原声App,Flutter整合\n+- 擅长Unity和原生App,Flutter整合\n \n \n **后端开发:**\n - 熟悉Python，熟悉Selenium/Flask等packages;\n"
+                },
+                {
+                    "date": 1740396062274,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -77,9 +77,9 @@\n \n \n 典型案例\n --------\n-**1. 51好茶**\n+**51好茶**\n \n 一个基于Flutter的app, 整合电商和类似TikTok等视频内容。后端基于Amplify+Medusa \n \n ![Alt text](51tea_app.jpg)\n@@ -87,16 +87,10 @@\n \n \n 我的职责：从figma到App Store上架，从前端Flutter开发到后端aws的开通/medusa的搭建，全部独立完成\n \n-**2. DeepFlow** \n \n-一个大型的AI web客服系统,前端基于react/ant design, 后端基于python/flask/langchain/各家llm模型\n \n-![Alt text](deepflow.jpg)\n-\n-我的职责：大部分前端React开发\n-\n **FacePro**\n \n 一个基于Flutter的 web3 social app, 后端基于DymamoDB/GraphQL/Lambda/S3等AWS服务\n \n"
                 }
             ],
             "date": 1734768717486,
