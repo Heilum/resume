@@ -1,0 +1,18 @@
+{
+    "sourceFile": "_layouts/default.html",
+    "activeCommit": 0,
+    "commits": [
+        {
+            "activePatchIndex": 0,
+            "patches": [
+                {
+                    "date": 1741618131887,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n"
+                }
+            ],
+            "date": 1741618131887,
+            "name": "Commit-0",
+            "content": "<!DOCTYPE html>\n<html>\n\n<head>\n    <title>{{ page.title }}</title>\n    <style>\n        /* Basic responsive image */\n        img {\n            width: 20%;\n            height: auto;\n        }\n    </style>\n</head>\n\n<body>\n    {{ content }}\n</body>\n\n</html>"
+        }
+    ]
+}
