@@ -15,7 +15,7 @@ Chen Wanfei
 
 Contact Information
 ---------
-- [chenwf@gmail.com](mailto:chenwf@gmail.com)
+- [chenwf@gmail.com](mailto:chencwf@gmail.com)
 - [Medium](https://medium.com/@chencwf)
 - [Weibo](https://weibo.com/jagie)
 - [github](https://github.com/Heilum)
