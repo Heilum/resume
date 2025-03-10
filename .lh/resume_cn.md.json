@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 10,
+            "activePatchIndex": 11,
             "patches": [
                 {
                     "date": 1734768717486,
@@ -48,6 +48,10 @@
                 {
                     "date": 1741617777786,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,8 +5,11 @@\n 陈万飞\n ======\n \n #### 1979年生, 男, 全栈软件工程师，现居重庆\n+&nbsp;\n+![](https://files.kimi.wxbiztool.com/jXPei0VXijR5NYx87IlGLA9K8oPE6xNk/me2.jpg)\n+&nbsp;\n \n 联系方式\n ---------\n - Email: [chenwf@gmail.com](chenwf@gmail.com)\n"
+                },
+                {
+                    "date": 1741617944404,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,9 +7,9 @@\n \n #### 1979年生, 男, 全栈软件工程师，现居重庆\n \n &nbsp;\n-![](https://files.kimi.wxbiztool.com/jXPei0VXijR5NYx87IlGLA9K8oPE6xNk/me2.jpg)\n+![](https://files.kimi.wxbiztool.com/WfT0uP0fPzntuW92uv5b1qQkXAS1FADp/me2.jpg)\n &nbsp;\n \n 联系方式\n ---------\n"
                 }
             ],
             "date": 1734768717486,
