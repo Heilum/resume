@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 2,
+            "activePatchIndex": 9,
             "patches": [
                 {
                     "date": 1734768717486,
@@ -16,6 +16,34 @@
                 {
                     "date": 1740396062274,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -77,9 +77,9 @@\n \n \n 典型案例\n --------\n-**1. 51好茶**\n+**51好茶**\n \n 一个基于Flutter的app, 整合电商和类似TikTok等视频内容。后端基于Amplify+Medusa \n \n ![Alt text](51tea_app.jpg)\n@@ -87,16 +87,10 @@\n \n \n 我的职责：从figma到App Store上架，从前端Flutter开发到后端aws的开通/medusa的搭建，全部独立完成\n \n-**2. DeepFlow** \n \n-一个大型的AI web客服系统,前端基于react/ant design, 后端基于python/flask/langchain/各家llm模型\n \n-![Alt text](deepflow.jpg)\n-\n-我的职责：大部分前端React开发\n-\n **FacePro**\n \n 一个基于Flutter的 web3 social app, 后端基于DymamoDB/GraphQL/Lambda/S3等AWS服务\n \n"
+                },
+                {
+                    "date": 1741616777582,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -77,20 +77,9 @@\n \n \n 典型案例\n --------\n-**51好茶**\n \n-一个基于Flutter的app, 整合电商和类似TikTok等视频内容。后端基于Amplify+Medusa \n-\n-![Alt text](51tea_app.jpg)\n-![Alt text](51tea_backend.jpg)\n-\n-\n-我的职责：从figma到App Store上架，从前端Flutter开发到后端aws的开通/medusa的搭建，全部独立完成\n-\n-\n-\n **FacePro**\n \n 一个基于Flutter的 web3 social app, 后端基于DymamoDB/GraphQL/Lambda/S3等AWS服务\n \n"
+                },
+                {
+                    "date": 1741616794525,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -50,9 +50,9 @@\n - 擅长在Futter中采用Firebase/amplify等serverless backend 方案;\n \n **前端React开发:**\n - 熟悉Typescript;\n-- 熟悉React;\n+- 熟悉Next.js;\n - 熟悉Ant Design;\n \n **前端游戏开发:**\n - 熟悉C#和Unity;\n"
+                },
+                {
+                    "date": 1741616805501,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -48,9 +48,9 @@\n - 精通常用的各种packages, 且可以自由裁剪;\n - 具备多年的Android/iOS原生开发经验, 熟悉Flutter与原生混合开发;\n - 擅长在Futter中采用Firebase/amplify等serverless backend 方案;\n \n-**前端React开发:**\n+**Next.js开发:**\n - 熟悉Typescript;\n - 熟悉Next.js;\n - 熟悉Ant Design;\n \n"
+                },
+                {
+                    "date": 1741616858309,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -52,8 +52,9 @@\n **Next.js开发:**\n - 熟悉Typescript;\n - 熟悉Next.js;\n - 熟悉Ant Design;\n+- 熟悉Tailwind CSS\n \n **前端游戏开发:**\n - 熟悉C#和Unity;\n - 擅长Unity和原生App,Flutter整合\n"
+                },
+                {
+                    "date": 1741616902964,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -65,8 +65,9 @@\n - 熟悉LangChain/Ollama等Python packages进行RAG，可自行构建AI应用;\n - 熟悉Shelf dart server框架\n - 熟悉Aws Lambda/GraphQL/Amplify/DynamoDB/S3等AWS服务\n - 熟悉Firebase Cloud Functions/Firestore/Realtime Database/Storage等Firebase服务\n+- 熟悉self-host Supabase\n \n \n **其他:**\n - 熟悉Git/Linux\n"
+                },
+                {
+                    "date": 1741617077294,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -11,8 +11,9 @@\n ---------\n - Email: [chenwf@gmail.com](chenwf@gmail.com)\n - [Medium](https://medium.com/@chencwf)\n - [微博](https://weibo.com/jagie)\n+- [github](https://github.com/Heilum)\n \n \n \n 教育经历\n"
+                },
+                {
+                    "date": 1741617108040,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -32,9 +32,9 @@\n - 自行在App Store发布App\n \n \n **软件工程师** (2001年-2008年 北京)\n-在多个软件工程师担任软件工程师\n+在多个公司任软件工程师\n \n \n 技能\n ------\n"
                 }
             ],
             "date": 1734768717486,

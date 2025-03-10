@@ -12,6 +12,7 @@ title: Jagie's Resume
 - Email: [chenwf@gmail.com](chenwf@gmail.com)
 - [Medium](https://medium.com/@chencwf)
 - [微博](https://weibo.com/jagie)
+- [github](https://github.com/Heilum)
 
 
 
@@ -32,7 +33,7 @@ title: Jagie's Resume
 
 
 **软件工程师** (2001年-2008年 北京)
-在多个软件工程师担任软件工程师
+在多个公司任软件工程师
 
 
 技能
@@ -49,10 +50,11 @@ title: Jagie's Resume
 - 具备多年的Android/iOS原生开发经验, 熟悉Flutter与原生混合开发;
 - 擅长在Futter中采用Firebase/amplify等serverless backend 方案;
 
-**前端React开发:**
+**Next.js开发:**
 - 熟悉Typescript;
-- 熟悉React;
+- 熟悉Next.js;
 - 熟悉Ant Design;
+- 熟悉Tailwind CSS
 
 **前端游戏开发:**
 - 熟悉C#和Unity;
@@ -65,6 +67,7 @@ title: Jagie's Resume
 - 熟悉Shelf dart server框架
 - 熟悉Aws Lambda/GraphQL/Amplify/DynamoDB/S3等AWS服务
 - 熟悉Firebase Cloud Functions/Firestore/Realtime Database/Storage等Firebase服务
+- 熟悉self-host Supabase
 
 
 **其他:**
@@ -78,17 +81,6 @@ title: Jagie's Resume
 
 典型案例
 --------
-**51好茶**
-
-一个基于Flutter的app, 整合电商和类似TikTok等视频内容。后端基于Amplify+Medusa 
-
-![Alt text](51tea_app.jpg)
-![Alt text](51tea_backend.jpg)
-
-
-我的职责：从figma到App Store上架，从前端Flutter开发到后端aws的开通/medusa的搭建，全部独立完成
-
-
 
 **FacePro**
 

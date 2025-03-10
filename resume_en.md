@@ -13,6 +13,7 @@ Contact Information
 - [chenwf@gmail.com](mailto:chenwf@gmail.com)
 - [Medium](https://medium.com/@chencwf)
 - [Weibo](https://weibo.com/jagie)
+- [github](https://github.com/Heilum)
 
 
 
@@ -50,9 +51,9 @@ Skills
 - Years of experience in native Android/iOS development, skilled in Flutter hybrid development
 - Proficient in implementing serverless backend solutions like Firebase/Amplify in Flutter
 
-**Frontend React Development:**
+**Frontend Next.js Development:**
 - Proficient in TypeScript
-- Proficient in React
+- Proficient in Next.js
 - Proficient in Ant Design
 
 **Frontend Game Development:**
@@ -79,16 +80,6 @@ Skills
 
 Featured Projects
 --------
-**51 Good Tea**
-
-A Flutter-based app integrating e-commerce and TikTok-like video content. Backend based on Amplify+Medusa 
-
-![Alt text](https://files.kimi.wxbiztool.com/ct4PTRooHMKIAgq6MdJLOCdHSp7cnbdK/51tea_app.jpg)
-![Alt text](https://files.kimi.wxbiztool.com/ea6kJ2vbbU84UG9dr7XNgBUajNgcXW09/51tea_backend.jpg)
-
-
-My Role: Independently completed everything from Figma to App Store launch, from Flutter frontend development to AWS backend setup and Medusa implementation
-
 **FacePro**
 
 A Flutter-based Web3 social app, backend based on AWS services including DynamoDB/GraphQL/Lambda/S3
