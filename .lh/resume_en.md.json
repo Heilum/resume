@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 11,
+            "activePatchIndex": 12,
             "patches": [
                 {
                     "date": 1733326646103,
@@ -52,6 +52,10 @@
                 {
                     "date": 1741617964638,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -8,9 +8,9 @@\n \n #### Born in 1979, Male, Full Stack Software Engineer, Based in Chongqing\n \n &nbsp;\n-![](https://files.kimi.wxbiztool.com/jXPei0VXijR5NYx87IlGLA9K8oPE6xNk/me2.jpg)\n+![](https://files.kimi.wxbiztool.com/WfT0uP0fPzntuW92uv5b1qQkXAS1FADp/me2.jpg)\n &nbsp;\n \n \n Contact Information\n"
+                },
+                {
+                    "date": 1741618286413,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -53,9 +53,9 @@\n - Experienced in converting Figma designs to Flutter themes\n - Expert in MVVM app architectures\n - Mastery of common packages with ability to customize\n - Years of experience in native Android/iOS development, skilled in Flutter hybrid development\n-- Proficient in implementing serverless backend solutions like Firebase/Amplify in Flutter\n+- Proficient in implementing serverless backend solutions like Supabase/Firebase/Amplify in Flutter\n \n **Frontend Next.js Development:**\n - Proficient in TypeScript\n - Proficient in Next.js\n"
                 }
             ],
             "date": 1733326646103,

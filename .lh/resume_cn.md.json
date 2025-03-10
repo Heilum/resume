@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 11,
+            "activePatchIndex": 12,
             "patches": [
                 {
                     "date": 1734768717486,
@@ -52,6 +52,10 @@
                 {
                     "date": 1741617944404,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,9 +7,9 @@\n \n #### 1979年生, 男, 全栈软件工程师，现居重庆\n \n &nbsp;\n-![](https://files.kimi.wxbiztool.com/jXPei0VXijR5NYx87IlGLA9K8oPE6xNk/me2.jpg)\n+![](https://files.kimi.wxbiztool.com/WfT0uP0fPzntuW92uv5b1qQkXAS1FADp/me2.jpg)\n &nbsp;\n \n 联系方式\n ---------\n"
+                },
+                {
+                    "date": 1741618261799,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -51,9 +51,9 @@\n - 熟悉从Figma到Flutter theme的转换;\n - 精通MVVM 清晰架构;\n - 精通常用的各种packages, 且可以自由裁剪;\n - 具备多年的Android/iOS原生开发经验, 熟悉Flutter与原生混合开发;\n-- 擅长在Futter中采用Firebase/amplify等serverless backend 方案;\n+- 擅长在Futter中采用Supabase/Firebase/amplify等serverless backend 方案;\n \n **Next.js开发:**\n - 熟悉Typescript;\n - 熟悉Next.js;\n"
                 }
             ],
             "date": 1734768717486,

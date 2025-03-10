@@ -52,7 +52,7 @@ title: Jagie's Resume
 - 精通MVVM 清晰架构;
 - 精通常用的各种packages, 且可以自由裁剪;
 - 具备多年的Android/iOS原生开发经验, 熟悉Flutter与原生混合开发;
-- 擅长在Futter中采用Firebase/amplify等serverless backend 方案;
+- 擅长在Futter中采用Supabase/Firebase/amplify等serverless backend 方案;
 
 **Next.js开发:**
 - 熟悉Typescript;

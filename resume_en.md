@@ -54,7 +54,7 @@ Skills
 - Expert in MVVM app architectures
 - Mastery of common packages with ability to customize
 - Years of experience in native Android/iOS development, skilled in Flutter hybrid development
-- Proficient in implementing serverless backend solutions like Firebase/Amplify in Flutter
+- Proficient in implementing serverless backend solutions like Supabase/Firebase/Amplify in Flutter
 
 **Frontend Next.js Development:**
 - Proficient in TypeScript
