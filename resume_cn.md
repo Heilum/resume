@@ -13,7 +13,7 @@ title: Jagie's Resume
 
 联系方式
 ---------
-- Email: [chenwf@gmail.com](chencwf@gmail.com)
+- Email: [chencwf@gmail.com](chencwf@gmail.com)
 - [Medium](https://medium.com/@chencwf)
 - [微博](https://weibo.com/jagie)
 - [github](https://github.com/Heilum)
