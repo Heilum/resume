@@ -7,6 +7,10 @@ title: Jagie's Resume
 
 #### 1979年生, 男, 全栈软件工程师，现居重庆
 
+&nbsp;
+![](https://files.kimi.wxbiztool.com/jXPei0VXijR5NYx87IlGLA9K8oPE6xNk/me2.jpg)
+&nbsp;
+
 联系方式
 ---------
 - Email: [chenwf@gmail.com](chenwf@gmail.com)

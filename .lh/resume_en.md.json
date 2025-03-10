@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 9,
+            "activePatchIndex": 10,
             "patches": [
                 {
                     "date": 1733326646103,
@@ -44,6 +44,10 @@
                 {
                     "date": 1741617066719,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -12,9 +12,9 @@\n ---------\n - [chenwf@gmail.com](mailto:chenwf@gmail.com)\n - [Medium](https://medium.com/@chencwf)\n - [Weibo](https://weibo.com/jagie)\n-- [github]([ht](https://github.com/Heilum))\n+- [github](https://github.com/Heilum)\n \n \n \n Education\n"
+                },
+                {
+                    "date": 1741617748262,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -7,8 +7,13 @@\n ======\n \n #### Born in 1979, Male, Full Stack Software Engineer, Based in Chongqing\n \n+&nbsp;\n+![](https://files.kimi.wxbiztool.com/jXPei0VXijR5NYx87IlGLA9K8oPE6xNk/me2.jpg)\n+&nbsp;\n+\n+\n Contact Information\n ---------\n - [chenwf@gmail.com](mailto:chenwf@gmail.com)\n - [Medium](https://medium.com/@chencwf)\n"
                 }
             ],
             "date": 1733326646103,

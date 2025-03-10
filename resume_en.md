@@ -8,6 +8,11 @@ Chen Wanfei
 
 #### Born in 1979, Male, Full Stack Software Engineer, Based in Chongqing
 
+&nbsp;
+![](https://files.kimi.wxbiztool.com/jXPei0VXijR5NYx87IlGLA9K8oPE6xNk/me2.jpg)
+&nbsp;
+
+
 Contact Information
 ---------
 - [chenwf@gmail.com](mailto:chenwf@gmail.com)

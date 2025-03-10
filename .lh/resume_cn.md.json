@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 9,
+            "activePatchIndex": 10,
             "patches": [
                 {
                     "date": 1734768717486,
@@ -44,6 +44,10 @@
                 {
                     "date": 1741617108040,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -32,9 +32,9 @@\n - 自行在App Store发布App\n \n \n **软件工程师** (2001年-2008年 北京)\n-在多个软件工程师担任软件工程师\n+在多个公司任软件工程师\n \n \n 技能\n ------\n"
+                },
+                {
+                    "date": 1741617777786,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,8 +5,11 @@\n 陈万飞\n ======\n \n #### 1979年生, 男, 全栈软件工程师，现居重庆\n+&nbsp;\n+![](https://files.kimi.wxbiztool.com/jXPei0VXijR5NYx87IlGLA9K8oPE6xNk/me2.jpg)\n+&nbsp;\n \n 联系方式\n ---------\n - Email: [chenwf@gmail.com](chenwf@gmail.com)\n"
                 }
             ],
             "date": 1734768717486,
