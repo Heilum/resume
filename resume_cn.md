@@ -57,8 +57,7 @@ title: Jagie's Resume
 **Next.js开发:**
 - 熟悉Typescript;
 - 熟悉Next.js;
-- 熟悉Ant Design;
-- 熟悉Tailwind CSS
+- 熟悉Material Design;
 
 **前端游戏开发:**
 - 熟悉C#和Unity;
@@ -93,3 +92,12 @@ title: Jagie's Resume
 ![Alt text](facepro.jpg)
 
 我的职责：作为App端的开发负责人，负责了App的架构搭建，并且开发了内嵌的Unity游戏
+
+
+**贝加关爱**
+
+一个基于Nextjs+WeUI的微信公众号,后端基于Self-Hosted Supabase
+
+![Alt text](bjga.jpg)
+
+我的职责：全栈开发
