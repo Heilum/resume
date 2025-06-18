@@ -89,7 +89,7 @@ Featured Projects
 
 A Flutter-based Web3 social app, backend based on AWS services including DynamoDB/GraphQL/Lambda/S3
 
-![App Store](https://apps.apple.com/us/app/facepro/id1659173018)
+[App Store](https://apps.apple.com/us/app/facepro/id1659173018)
 
 ![Alt text](facepro.jpg)
 
@@ -100,7 +100,7 @@ My Role: As the App development leader, responsible for app architecture and dev
 
 A Twitter Space-like Flutter app, backend based on Agora/DynamoDB/GraphQL/Lambda/S3 and other AWS services
 
-![App Store](https://apps.apple.com/us/app/facetalk-web3/id6463494315)
+[App Store](https://apps.apple.com/us/app/facetalk-web3/id6463494315)
 
 My Role: As the App development leader, responsible for app architecture and development of embedded Unity games
 

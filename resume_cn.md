@@ -90,7 +90,7 @@ title: Jagie's Resume
 一个基于Flutter的 web3 social app, 后端基于DynamoDB/GraphQL/Lambda/S3等AWS服务
 
 
-![App Store](https://apps.apple.com/us/app/facepro/id1659173018)
+[App Store](https://apps.apple.com/us/app/facepro/id1659173018)
 
 
 ![Alt text](facepro.jpg)
@@ -103,7 +103,7 @@ title: Jagie's Resume
 一个类似于twitter space的 flutter app, 后端基于声网/DynamoDB/GraphQL/Lambda/S3等AWS服务
 
 
-![App Store](https://apps.apple.com/us/app/facetalk-web3/id6463494315)
+[App Store](https://apps.apple.com/us/app/facetalk-web3/id6463494315)
 
 
 
