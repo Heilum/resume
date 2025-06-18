@@ -5,7 +5,7 @@ title: Jagie's Resume
 陈万飞
 ======
 
-#### 1979年生, 男, 全栈软件工程师，现居重庆
+####男, 全栈软件工程师，现居重庆
 
 &nbsp;
 ![](https://files.kimi.wxbiztool.com/WfT0uP0fPzntuW92uv5b1qQkXAS1FADp/me2.jpg)
@@ -87,7 +87,24 @@ title: Jagie's Resume
 
 **FacePro**
 
-一个基于Flutter的 web3 social app, 后端基于DymamoDB/GraphQL/Lambda/S3等AWS服务
+一个基于Flutter的 web3 social app, 后端基于DynamoDB/GraphQL/Lambda/S3等AWS服务
+
+
+App Store: https://apps.apple.com/us/app/facepro/id1659173018
+
+
+![Alt text](facepro.jpg)
+
+我的职责：作为App端的开发负责人，负责了App的架构搭建，并且开发了内嵌的Unity游戏
+
+
+**FaceTalk**
+
+一个类似于twitter space的 flutter app, 后端基于声网/DynamoDB/GraphQL/Lambda/S3等AWS服务
+
+
+App Store: https://apps.apple.com/us/app/facetalk-web3/id6463494315
+
 
 ![Alt text](facepro.jpg)
 

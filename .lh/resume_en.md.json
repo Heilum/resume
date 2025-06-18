@@ -3,7 +3,7 @@
     "activeCommit": 0,
     "commits": [
         {
-            "activePatchIndex": 14,
+            "activePatchIndex": 20,
             "patches": [
                 {
                     "date": 1733326646103,
@@ -64,6 +64,30 @@
                 {
                     "date": 1741618678204,
                     "content": "Index: \n===================================================================\n--- \n+++ \n@@ -14,9 +14,9 @@\n \n \n Contact Information\n ---------\n-- [chenwf@gmail.com](mailto:chencwf@gmail.com)\n+- [chencwf@gmail.com](mailto:chencwf@gmail.com)\n - [Medium](https://medium.com/@chencwf)\n - [Weibo](https://weibo.com/jagie)\n - [github](https://github.com/Heilum)\n \n"
+                },
+                {
+                    "date": 1750215162183,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -91,4 +91,13 @@\n \n ![Alt text](https://files.kimi.wxbiztool.com/XCLckz5yMr6MxNscSDdYGlCFtHjdhmyQ/facepro.jpg)\n \n My Role: As the App development leader, responsible for app architecture and development of embedded Unity games\n+\n+\n+**BeijiaGuanai**\n+\n+A WeChat official account based on Next.js + WeUI, backend based on self-hosted Supabase\n+\n+![Alt text](bjga.png)\n+\n+My Role: Full-stack development\n"
+                },
+                {
+                    "date": 1750215180722,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -97,7 +97,7 @@\n **BeijiaGuanai**\n \n A WeChat official account based on Next.js + WeUI, backend based on self-hosted Supabase\n \n-![Alt text](bjga.png)\n+![Alt text](bjga.jpg)\n \n My Role: Full-stack development\n"
+                },
+                {
+                    "date": 1750215203187,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -5,9 +5,9 @@\n \n Chen Wanfei\n ======\n \n-#### Born in 1979, Male, Full Stack Software Engineer, Based in Chongqing\n+#### Male, Full Stack Software Engineer, Based in Chongqing\n \n &nbsp;\n ![](https://files.kimi.wxbiztool.com/WfT0uP0fPzntuW92uv5b1qQkXAS1FADp/me2.jpg)\n &nbsp;\n"
+                },
+                {
+                    "date": 1750215273333,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -88,9 +88,9 @@\n **FacePro**\n \n A Flutter-based Web3 social app, backend based on AWS services including DynamoDB/GraphQL/Lambda/S3\n \n-![Alt text](https://files.kimi.wxbiztool.com/XCLckz5yMr6MxNscSDdYGlCFtHjdhmyQ/facepro.jpg)\n+![Alt text](facepro.jpg)\n \n My Role: As the App development leader, responsible for app architecture and development of embedded Unity games\n \n \n"
+                },
+                {
+                    "date": 1750215342663,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -92,9 +92,11 @@\n ![Alt text](facepro.jpg)\n \n My Role: As the App development leader, responsible for app architecture and development of embedded Unity games\n \n+App Store: https://www.fnd.io/#/us/iphone-app/1659173018-facepro-by-facepro-inc\n \n+\n **BeijiaGuanai**\n \n A WeChat official account based on Next.js + WeUI, backend based on self-hosted Supabase\n \n"
+                },
+                {
+                    "date": 1750216303029,
+                    "content": "Index: \n===================================================================\n--- \n+++ \n@@ -88,15 +88,26 @@\n **FacePro**\n \n A Flutter-based Web3 social app, backend based on AWS services including DynamoDB/GraphQL/Lambda/S3\n \n+App Store: https://apps.apple.com/us/app/facepro/id1659173018\n+\n ![Alt text](facepro.jpg)\n \n My Role: As the App development leader, responsible for app architecture and development of embedded Unity games\n \n-App Store: https://www.fnd.io/#/us/iphone-app/1659173018-facepro-by-facepro-inc\n \n+**FaceTalk**\n \n+A Twitter Space-like Flutter app, backend based on Agora/DynamoDB/GraphQL/Lambda/S3 and other AWS services\n+\n+App Store: https://apps.apple.com/us/app/facetalk-web3/id6463494315\n+\n+![Alt text](facepro.jpg)\n+\n+My Role: As the App development leader, responsible for app architecture and development of embedded Unity games\n+\n+\n **BeijiaGuanai**\n \n A WeChat official account based on Next.js + WeUI, backend based on self-hosted Supabase\n \n"
                 }
             ],
             "date": 1733326646103,

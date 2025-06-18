@@ -6,7 +6,7 @@ title: Jagie's Resume
 Chen Wanfei
 ======
 
-#### Born in 1979, Male, Full Stack Software Engineer, Based in Chongqing
+#### Male, Full Stack Software Engineer, Based in Chongqing
 
 &nbsp;
 ![](https://files.kimi.wxbiztool.com/WfT0uP0fPzntuW92uv5b1qQkXAS1FADp/me2.jpg)
@@ -89,6 +89,28 @@ Featured Projects
 
 A Flutter-based Web3 social app, backend based on AWS services including DynamoDB/GraphQL/Lambda/S3
 
-![Alt text](https://files.kimi.wxbiztool.com/XCLckz5yMr6MxNscSDdYGlCFtHjdhmyQ/facepro.jpg)
+App Store: https://apps.apple.com/us/app/facepro/id1659173018
+
+![Alt text](facepro.jpg)
 
 My Role: As the App development leader, responsible for app architecture and development of embedded Unity games
+
+
+**FaceTalk**
+
+A Twitter Space-like Flutter app, backend based on Agora/DynamoDB/GraphQL/Lambda/S3 and other AWS services
+
+App Store: https://apps.apple.com/us/app/facetalk-web3/id6463494315
+
+![Alt text](facepro.jpg)
+
+My Role: As the App development leader, responsible for app architecture and development of embedded Unity games
+
+
+**BeijiaGuanai**
+
+A WeChat official account based on Next.js + WeUI, backend based on self-hosted Supabase
+
+![Alt text](bjga.jpg)
+
+My Role: Full-stack development
